@@ -1,28 +1,3 @@
-# Chiikawa CLI
-
-## Installation
-
-```bash
-cargo install chiikawa
-```
-
-## Usage
-
-```
-🌸 ちいかわ！ 🌸
-
-Usage: chiikawa [OPTIONS]
-
-Options:
-  -c, --charchacter <CHARCHACTER>  Charchacter [default: chiikawa] [possible values: chiikawa, hachiware, usagi]
-  -h, --help                       Print help
-  -V, --version                    Print version
-```
-
-## Result
-
-```bash
-# cargo run
                                                          @@@@@@@@@@&
                                      .                 ,@@@@@@@@@@@@@%
                                    @@@@@             %@@@@@@   @@@@@@@@@@&
@@ -47,4 +22,3 @@ Options:
                ,@@@@@(*&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/   @%@&
                 /@@.%@@  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
                   /@@/ /@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-```
